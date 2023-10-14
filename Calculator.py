@@ -1,5 +1,5 @@
-a = 60
-b = 40
+a = int(input())   #In one line two input is a, b = input().split()
+b = int(input())
 
 print("First Number is = ",a)
 print("Second Number is = ",b)

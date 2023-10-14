@@ -1,1 +1,3 @@
-print("Operator")
+a = 'bangla'
+b = 'desh'
+type(a)
